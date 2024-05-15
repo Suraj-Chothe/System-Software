@@ -92,5 +92,6 @@ return 1;
 //out put is type manullay 
 //eg:- a=b+c*d $
 //a=b+c*d;
-
+//Write a program using LEX and YACC to generate Intermediate code in the form of Three 
+//addresss and Quadruple form for assignment statement 
 
