@@ -42,3 +42,6 @@ yyparse();
 //valid declarative statementint 
 //a=10,
 //Invalid declarative statemen
+
+// Write a program using YACC specifications to implement syntax analysis phase of compiler to 
+//validate type and syntax of variable declaration in C program.  
