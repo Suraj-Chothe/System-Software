@@ -34,6 +34,6 @@ int yywrap()
 //cc lex.yy.c
 //./a.out < Input1_txt.txt
 //output is generated manullay
-
+//Write a LEX program to display word, character and line counts for a sample input text file
 
 
