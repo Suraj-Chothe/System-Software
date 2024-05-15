@@ -54,3 +54,5 @@ printf("syntax error");
 //output:- maunllay
 //10+20
 //6*45
+//Write a program using YACC specifications to implement calulator to perform various arithmetic 
+//operations 
