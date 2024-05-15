@@ -67,3 +67,5 @@ return 1;
 //Parsed a simple sentence.
 //I am Suraj and he is Sumit
 //Parsed a compound sentence.
+// Write a program using YACC specifications to implement syntax analysis phase of compiler to
+//recognize simple and compound sentences given in input file.  
