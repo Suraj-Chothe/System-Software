@@ -116,4 +116,4 @@
 //./a.out
 // ouput is genetared by the code
 
-
+//Write a program to implement recursive descent parser(RDP) for sample language. 
