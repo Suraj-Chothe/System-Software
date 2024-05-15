@@ -53,5 +53,5 @@ int main() {
 //eg:-a=b+c*d*(e-f)$    
 
 
-
+//Write a program using LEX and YACC to generate a symbol table  
 
