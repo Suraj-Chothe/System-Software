@@ -4,8 +4,7 @@
     #define SUCCESS 1  
     #define FAILED 0  
       
-    int E(), Edash(), T(), Tdash(), F();  
-      
+    int E(), Edash(), T(), Tdash(), F();      
     const char *cursor;  
     char string[64];  
       
