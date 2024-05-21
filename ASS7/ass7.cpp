@@ -5,6 +5,7 @@
 
 using namespace std;
 
+
 int main() {
     int i = 0, x = 0, n;
     void *p, *add[5];
