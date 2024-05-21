@@ -13,6 +13,7 @@ sin	return SINE;
 log     return nLOG;
 sqrt    return SQRT;
 %%
+
 int yywrap()
 {
 return 1;
