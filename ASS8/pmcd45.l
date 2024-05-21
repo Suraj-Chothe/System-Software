@@ -9,6 +9,7 @@ number [0-9]+|([0-9]*\.[0-9]+)
 identifier [a-zA-Z][a-zA-Z0-9]*
 %%
 
+
 {identifier} {strcpy(yylval.var,yytext);
                 return VAR;}
 
