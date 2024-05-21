@@ -30,6 +30,7 @@ struct q
 
 %%
 
+
 ASSIGNMENT:VAR'='EXPR {
            	strcpy(q[index1].op,"=");
            	strcpy(q[index1].arg1,$3);
