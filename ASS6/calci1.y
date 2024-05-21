@@ -6,7 +6,6 @@ int yylex();
 int yyerror();
 %}
 
-
 %union
 {
 double dval;
